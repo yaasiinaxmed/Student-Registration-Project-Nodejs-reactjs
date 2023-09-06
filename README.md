@@ -9,7 +9,7 @@
 
 ![AddStudent](./frontend/src/assets/Added.png)
 #### Update Student
-![UpdateStudent](./frontend/src/assets/UpdateStudent.png)
+![UpdateStudent](./frontend/src/assets/updateStudent.png)
 
 #### Updated Student
-![Updated](./frontend/src/assets/Updated.png)
+![Updated](./frontend/src/assets/updated.png)
