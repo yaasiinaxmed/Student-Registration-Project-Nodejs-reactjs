@@ -1,5 +1,5 @@
 ## Student Registration Project 
-### Full Stack Project used react js and node 
+### Full Stack Project used react js and node js
 
 ## DEMO SCREENSHOTS
 
