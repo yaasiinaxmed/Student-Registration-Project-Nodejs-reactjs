@@ -6,9 +6,8 @@
 #### Add Student
 ![AddStudent](./frontend/src/assets/AddStudent.png)
 
-#### Added Student
-![AddStudent](./f/src/assets/Added.png)
 
+![AddStudent](./frontend/src/assets/Added.png)
 #### Update Student
 ![AddStudent](./frontend/src/assets/UpdateStudent.png)
 
