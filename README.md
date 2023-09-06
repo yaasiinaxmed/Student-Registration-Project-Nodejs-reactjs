@@ -4,12 +4,12 @@
 ## DEMO SCREENSHOTS
 
 #### Add Student
-![AddStudent](./frontend/src/assets/AddStudent.png)
+![AddedStudent](./frontend/src/assets/AddStudent.png)
 
 
 ![AddStudent](./frontend/src/assets/Added.png)
 #### Update Student
-![AddStudent](./frontend/src/assets/UpdateStudent.png)
+![UpdateStudent](./frontend/src/assets/UpdateStudent.png)
 
 #### Updated Student
-![AddStudent](./frontend/src/assets/Updated.png)
+![Updated](./frontend/src/assets/Updated.png)
